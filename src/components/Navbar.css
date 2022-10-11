@@ -1,0 +1,14 @@
+.navbar {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.icon {
+    font-size: 2rem;
+    color: gold;
+}
+
+.gold {
+    color: gold;
+}
